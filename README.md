@@ -26,8 +26,8 @@ As you can see, the Total Daily Volume for all stocks in 2017 is slightly less t
 
 Below are the run times for the refactored script for 2017 & 2018:
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/95199679/147529738-05bcba83-676a-4da0-a3cf-689cb9fdbc49.png)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/95199679/147529741-ec4a63aa-1855-4aad-b7e4-8b1f603cc043.png)
+![VBA_Challenge_2017](https://github.com/bekkaross/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](https://github.com/bekkaross/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 These run times from the refactored code are faster than the run times for the original script (below):
 
